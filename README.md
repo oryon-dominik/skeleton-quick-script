@@ -1,6 +1,6 @@
 # {{name}}
 
-...
+A skeleton to have a quick base setup for cli based scripts or other quick to develop python applications.
 
 ! Don't forget to replace {{name}} with your actual project's name in all files and filenames
 
