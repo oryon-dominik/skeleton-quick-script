@@ -1,0 +1,12 @@
+# python
+__pycache__
+.pytest_cache/
+.ipynb_checkpoints/
+
+# IDE
+.vscode
+.DS_Store
+
+# project
+*logs/
+.env
